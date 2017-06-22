@@ -49,6 +49,8 @@ Besides the conceptual model, OMESA introduces also a simple standard notation w
 
 ![](/images/omesa_notation_1.png)
 
+As shown by the diagram above, the OMESA notation is capable of expressing the basic architectural characteristics of both a Microservices and a Monolithic design. 
+
 ## Copyright and License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
