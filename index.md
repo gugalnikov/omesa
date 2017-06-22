@@ -43,6 +43,12 @@ Within this context, Core Capabilities are key when it comes to justifying the p
 
 A huge part of our body of work is focused on identifying, describing and mapping these Core Capabilities to qualified design patterns throughout the model's different layers.
 
+## Standard Notation
+
+Besides the conceptual model, OMESA introduces also a simple standard notation which can be used to put together architectural blueprints based on its principles:
+
+![](/images/omesa_notation_1.png)
+
 ## Copyright and License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
