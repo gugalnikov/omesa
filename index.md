@@ -51,7 +51,7 @@ Besides the conceptual model, OMESA introduces also a simple standard notation w
 
 As shown by the diagram above, the OMESA notation is capable of expressing the basic architectural characteristics of both a Monolithic and a Microservices design. 
 
-At an enterprise-wide scale, the core building blocks of an architecture can also be depicted by using the OMESA notation, making it easier to convey a general idea supported by capabilities and design patterns.
+At an enterprise-wide scale, the core building blocks of an architecture can also be depicted by using the OMESA notation, making it easier to convey a comprehensive high level view supported by a combination of capabilities and design patterns.
 
 ![](/images/omesa_notation_2.png)
 
